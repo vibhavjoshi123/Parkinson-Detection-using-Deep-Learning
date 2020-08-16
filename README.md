@@ -18,7 +18,7 @@ We classify if the person has Parkinson disease or not on the model we have trai
 
 
 
-![c1](https://user-images.githubusercontent.com/37294597/90333776-1ec63600-dfe6-11ea-88b9-c820d8963d4f.jpg)
+![c2](https://user-images.githubusercontent.com/37294597/90333846-c5123b80-dfe6-11ea-862b-4fb6eed97b0d.jpeg)
 
 
 
