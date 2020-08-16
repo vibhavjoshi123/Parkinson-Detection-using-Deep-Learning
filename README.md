@@ -14,7 +14,8 @@ Use the training dataset to make prediction and help patient for further diagnos
 
 We take input from the user the shapes he draws on paper in the form of image.
 
-We use tensorflow to read and process data and and convert it to analyse
+We use Convolutional Neural Network from kearas library of  tensorflow to read and process data and and convert it to model to predict result
+to analyse
 
 We classify if the person has Parkinson disease or not on the model we have trained on the dataset
 
