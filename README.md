@@ -3,7 +3,7 @@ Parkinson Disease
 ![abstract](https://user-images.githubusercontent.com/37294597/90333932-82049800-dfe7-11ea-8fd9-1b2045599462.png)
 
 
-Android Application Demo (Pls wait the gif take time to load)
+Android Application Demo (Pls wait the gif takes time to load)
 
 ![](DemoVideogif.gif)
 
